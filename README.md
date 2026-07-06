@@ -77,4 +77,4 @@ The system detects fire from live video and displays results on the dashboard in
 - Drone-based monitoring systems  
 
 ## Author
-Nirmitha H
+Spoorthi R
